@@ -1,4 +1,4 @@
-FROM nvidia/cuda:8.0-runtime-ubuntu16.04
+FROM nvidia/cuda
 LABEL maintainer "Unsalted"
 
 ARG DEBIAN_FRONTEND=noninteractive
